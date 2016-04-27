@@ -1,6 +1,9 @@
 package controllers;
 
 public class TestController {
+<<<<<<< HEAD
 	String yippee = "Hello";
+=======
 	String test2 = "kris";
+>>>>>>> 151085a66cdad3e82f8f0d05dbc52c4ddfa04888
 }
